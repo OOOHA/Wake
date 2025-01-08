@@ -1,4 +1,4 @@
-[繁體中文](https://github.com/OOOHA/Wake?tab=readme-ov-file#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)<br>
+[繁體中文](#使用方法)<br>
 <br>
 [Download the Mac version](https://github.com/OOOHA/Wake/releases/download/V1/wake.zip)&ensp;&ensp;
 [Download the Windows version](https://github.com/OOOHA/Wake/releases/download/V1/wake.exe)
