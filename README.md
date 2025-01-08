@@ -1,5 +1,7 @@
-[繁體中文](#使用方法)<br>
+[繁體中文](#下載)<br>
 <br>
+# Download
+[Release Page](https://github.com/OOOHA/Wake/releases)&ensp;&ensp;
 [Download the Mac version](https://github.com/OOOHA/Wake/releases/download/V1/wake.zip)&ensp;&ensp;
 [Download the Windows version](https://github.com/OOOHA/Wake/releases/download/V1/wake.exe)
 
@@ -52,7 +54,8 @@ Run the app and you'll see this window when active.
 
 ---
 ---
-
+# 下載
+[發布頁](https://github.com/OOOHA/Wake/releases)&ensp;&ensp;
 [下載 Mac 版](https://github.com/OOOHA/Wake/releases/download/V1/wake.zip)&ensp;&ensp;
 [下載 Windows 版](https://github.com/OOOHA/Wake/releases/download/V1/wake.exe)
 
