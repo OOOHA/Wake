@@ -11,7 +11,7 @@
 [Download](https://github.com/OOOHA/Wake/releases/download/v2/Mac.version.zip)
 
 > [!Note]  
-> The file is downloaded as a ```zip``` file, please unzip it first.
+> The file is downloaded as a ```zip``` file, please unzip it first
 
 
 
@@ -19,14 +19,14 @@
 ### Run the App
 <img src="img/macsc/main.png" alt="image" width="300">
 
-This is the main screen of the App.
+This is the main screen of the App
 
 
 > [!Tip]
 > Way to close the app:
 > * The Red dot
-> * Quit the app.
-> * Use ```command + Q``` to quit the app.
+> * Quit the app
+> * Use ```command + Q``` to quit the app
 
 <img src="img/macsc/setting.png" alt="image" width="300">
 
@@ -44,45 +44,45 @@ Multi Languages
   </tr>
 </table>
 
-And more languages in the settings.
+And more languages in the settings
 
 > [!Note]
-> By default, the language will follow the system setting.
+> By default, the language will follow the system setting
 
 ## Settings option
 <img src="img/macsc/lt.png" alt="image" width="300">
 
-You can choose the theme you like.
+You can choose the theme you like
 
 > [!Note]
-> Auto means the theme will follow the system setting.
+> Auto means the theme will follow the system setting
 
 ## First time launching the App.
 
 
 <img src="img/macsc/down1.png" alt="image" width="300">
 
-<p>Click Done when seeing this popup</p>
+Click Done when seeing this popup
 <img src="img/macsc/setun.png" alt="image" width="300">
 
 Open System Settings -> Privacy & Security -> Open Anyway
 
 <img src="img/macsc/last.png" alt="image" width="300">
 
-Click Open Anyway. Enter the password or use TouchID to approve it.
+Click Open Anyway. Enter the password or use TouchID to approve it
 
-> I promise this is safe.
+> I promise this is safe
 
 
 ## Windows version:
 [Download](https://github.com/OOOHA/Wake/releases/download/v2/Windows.version.zip)
 
 > [!Note]  
-> The file is downloaded as a ```zip``` file, please unzip it first.
+> The file is downloaded as a ```zip``` file, please unzip it first
 
 <img src="img/macsc/main.png" alt="image" width="300">
 
-This is the main screen of the App.
+This is the main screen of the App
 
 
 <img src="img/winsc/setting.png" alt="image" width="300">
@@ -101,20 +101,22 @@ Multi Languages
   </tr>
 </table>
 
-And more languages in the settings.
+And more languages in the settings
 
 > [!Note]
-> By default, the language will follow the system setting.
+> By default, the language will follow the system setting
 
 ## Settings option
 <img src="img/winsc/lt.png" alt="image" width="300">
 
-You can choose the theme you like.
+You can choose the theme you like
 
 > [!Note]
-> Auto means the theme will follow the system setting.
+> Auto means the theme will follow the system setting
 
-
+---
+> [!important]
+> Languages are translated by Chat GPT
 
 
 ---
@@ -131,7 +133,7 @@ You can choose the theme you like.
 
 
 > [!Note]  
-> 下載檔案為```zip``` 檔，請先解壓縮.
+> 下載檔案為```zip``` 檔，請先解壓縮
 
 
 ### 執行程式
@@ -142,9 +144,9 @@ You can choose the theme you like.
 
 > [!Tip]
 > 關閉程式的方法：
-> * 點紅點點。
-> * 結束程式。
-> * 使用 ```command + Q``` 結束程式.
+> * 點紅點點
+> * 結束程式
+> * 使用 ```command + Q``` 結束程式
 
 <img src="img/macsc/setting.png" alt="image" width="300">
 
@@ -162,18 +164,18 @@ You can choose the theme you like.
   </tr>
 </table>
 
-設定裡還有更多語言選項。
+設定裡還有更多語言選項
 
 > [!Note]
-> 語言預設跟隨系統設定。
+> 語言預設跟隨系統設定
 
 ## Settings option
 <img src="img/macsc/lt.png" alt="image" width="300">
 
-可以自行選擇喜歡的主題。
+可以自行選擇喜歡的主題
 
 > [!Note]
-> 自動會讓主題跟隨系統設定。
+> 自動會讓主題跟隨系統設定
 
 ## First time launching the App.
 
@@ -187,15 +189,15 @@ You can choose the theme you like.
 
 <img src="img/macsc/last.png" alt="image" width="300">
 
-點擊強制開啟後輸入密碼或使用TouchID批准。
+點擊強制開啟後輸入密碼或使用TouchID批准
 
-> 我保證這程式無毒。
+> 我保證這程式無毒
 
 ## Windows 版:
 [下載](https://github.com/OOOHA/Wake/releases/download/v2/Windows.version.zip)
 
 > [!Note]  
-> 下載檔案為```zip``` 檔，請先解壓縮.
+> 下載檔案為```zip``` 檔，請先解壓縮
 
 <img src="img/macsc/main.png" alt="image" width="300">
 
@@ -217,15 +219,20 @@ You can choose the theme you like.
   </tr>
 </table>
 
-設定裡還有更多語言選項。
+設定裡還有更多語言選項
 
 > [!Note]
-> 語言預設跟隨系統設定。
+> 語言預設跟隨系統設定
 
 ## Settings option
 <img src="img/winsc/lt.png" alt="image" width="300">
 
-可以自行選擇喜歡的主題。
+可以自行選擇喜歡的主題
 
 > [!Note]
-> 自動會讓主題跟隨系統設定。
+> 自動會讓主題跟隨系統設定
+
+
+---
+> [!important]
+> 其他語言翻譯自 Chat GPT
