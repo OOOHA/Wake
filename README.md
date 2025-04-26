@@ -169,7 +169,7 @@ You can choose the theme you like
 > [!Note]
 > 語言預設跟隨系統設定
 
-## Settings option
+## 設定選項
 <img src="img/macsc/lt.png" alt="image" width="300">
 
 可以自行選擇喜歡的主題
@@ -177,7 +177,7 @@ You can choose the theme you like
 > [!Note]
 > 自動會讓主題跟隨系統設定
 
-## First time launching the App.
+## 第一次執行程式
 
 
 <img src="img/macsc/down1.png" alt="image" width="300">
@@ -224,7 +224,7 @@ You can choose the theme you like
 > [!Note]
 > 語言預設跟隨系統設定
 
-## Settings option
+## 設定選項
 <img src="img/winsc/lt.png" alt="image" width="300">
 
 可以自行選擇喜歡的主題
