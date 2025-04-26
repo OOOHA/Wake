@@ -17,40 +17,48 @@
 
 
 ### Run the App
-<img src="https://github.com/OOOHA/Wake/blob/main/img/mac1.png" alt="image" width="300">
+<img src="img/macsc/main.png" alt="image" width="300">
+
+This is the main screen of the App.
+
+> [!Tips]
+> Way to close the app:
+> * The Red dot
+> * Quit the app.
+> * Use ```command + Q``` to quit the app.
+
+First time launching the App.
+
+
+<img src="img/macsc/down1.png" alt="image" width="300">
+
+<p>Click Done when seeing this popup</p>
+<img src="img/macsc/setun.png" alt="image" width="300">
+
+Open System Settings -> Privacy & Security -> Open Anyway
+
+<img src="img/macsc/last.png" alt="image" width="300">
+
+<p>Click Open Anyway</p>
+
+> [!Message]  
+> I promise this is safe.
+<img src="img/macsc/macs.png" alt="image" width="300">
 
 
 
-<p>Click on the start Preventing sleep</p>
-<img src="https://github.com/OOOHA/Wake/blob/main/img/maca.png" alt="image" width="300">
 
-
-<p>Click OK when seeing this popup</p>
-<img src="https://github.com/OOOHA/Wake/blob/main/img/mac2.png" alt="image" width="300">
-
-You can now see that sleep prevention is active.<br>
-When you're done, click stop Preventing sleep.<br>
-Or you can<br>
-* quit the app.
-* use ```command + Q``` to quit the app.
-
-<img src="https://github.com/OOOHA/Wake/blob/main/img/macs.png" alt="image" width="300">
-
-> [!Note]  
-> You may need to permit this app to open for the first time.
-
-
-<img src="https://github.com/OOOHA/Wake/blob/main/img/macd1.png" alt="image" width="300">
+<img src="img/macsc/macd1.png" alt="image" width="300">
 
 Click OK and go to System Settings -> Privacy and Security
 
 
-<img src="https://github.com/OOOHA/Wake/blob/main/img/macd2.png" alt="image" width="300">
+<img src="img/macsc/macd2.png" alt="image" width="300">
 
 Find this section in the Privacy and Security -> click open Anyway
 
 
-<img src="https://github.com/OOOHA/Wake/blob/main/img/macd3.png" alt="image" width="300">
+<img src="img/macsc/macd3.png" alt="image" width="300">
 
 Click Open and enter your password or use TouchID.
 
@@ -60,7 +68,7 @@ Click Open and enter your password or use TouchID.
 
 ### Run the App
 
-<img src="https://github.com/OOOHA/Wake/blob/main/img/win-app.png" alt="image" width="300">
+<img src="img/macsc/win-app.png" alt="image" width="300">
 
 Run the app and you'll see this window when active.
 
@@ -81,15 +89,15 @@ Run the app and you'll see this window when active.
 
 
 ### 執行程式
-<img src="https://github.com/OOOHA/Wake/blob/main/img/mac1.png" alt="image" width="300">
+<img src="img/macsc/mac1.png" alt="image" width="300">
 
 點擊 Start preventing sleep
 
-<img src="https://github.com/OOOHA/Wake/blob/main/img/maca.png" alt="image" width="300">
+<img src="img/macsc/maca.png" alt="image" width="300">
 
 在彈出視窗中點擊OK
 
-<img src="https://github.com/OOOHA/Wake/blob/main/img/mac2.png" alt="image" width="300">
+<img src="img/macsc/mac2.png" alt="image" width="300">
 
 現在防睡眠已啟用.<br>
 如果要結束防睡眠可以點擊stop Preventing sleep.<br>
@@ -97,23 +105,23 @@ Run the app and you'll see this window when active.
 * 用Mac本身的結束程式.
 * 使用 ```cammand + Q``` 結束程式.
 
-<img src="https://github.com/OOOHA/Wake/blob/main/img/macs.png" alt="image" width="300">
+<img src="img/macsc/macs.png" alt="image" width="300">
 
 > [!Note]  
 > 第一次開啟時須提供權限。
 
 
-<img src="https://github.com/OOOHA/Wake/blob/main/img/macd1.png" alt="image" width="300">
+<img src="img/macsc/macd1.png" alt="image" width="300">
 
 點擊 OK 並前往 系統設定 -> 隱私與安全性
 
 
-<img src="https://github.com/OOOHA/Wake/blob/main/img/macd2.png" alt="image" width="300">
+<img src="img/macsc/macd2.png" alt="image" width="300">
 
 在隱私與安全性頁面中找到該畫面，點擊強制開啟
 
 
-<img src="https://github.com/OOOHA/Wake/blob/main/img/macd3.png" alt="image" width="300">
+<img src="img/macsc/macd3.png" alt="image" width="300">
 
 點擊開啟並輸入密碼或是使用指紋解鎖(TouchID)
 
@@ -121,6 +129,6 @@ Run the app and you'll see this window when active.
 [下載](https://github.com/OOOHA/Wake/releases/download/V1/wake.exe)
 
 ### 執行程式
-![image](https://github.com/OOOHA/Wake/blob/main/img/win-app.png)
+![image](img/macsc/win-app.png)
 
 開啟程式後會看到這個視窗，關閉視窗以結束程式。
