@@ -57,12 +57,12 @@ You can choose the theme you like
 > [!Note]
 > Auto means the theme will follow the system setting
 
-## First time launching the App.
+## First time launching the App
 
 
 <img src="img/macsc/down1.png" alt="image" width="300">
 
-Click Done when seeing this popup
+<p>Click Done when seeing this popup</p>
 <img src="img/macsc/setun.png" alt="image" width="300">
 
 Open System Settings -> Privacy & Security -> Open Anyway
