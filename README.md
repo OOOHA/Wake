@@ -29,9 +29,35 @@ This is the main screen of the App.
 > * Use ```command + Q``` to quit the app.
 
 <img src="img/macsc/setting.png" alt="image" width="300">
+
 App Settings
 
-First time launching the App.
+Multi Languages
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="img/macsc/zht.png" width="300"><br>
+    </td>
+    <td align="center">
+      <img src="img/macsc/jp.png" width="300"><br>
+    </td>
+  </tr>
+</table>
+
+And more languages in the settings.
+
+> [!Note]
+> By default, the language will follow the system setting.
+
+## Settings option
+<img src="img/macsc/lt.png" alt="image" width="300">
+
+You can choose the theme you like.
+
+> [!Note]
+> Auto means the theme will follow the system setting.
+
+## First time launching the App.
 
 
 <img src="img/macsc/down1.png" alt="image" width="300">
@@ -43,37 +69,60 @@ Open System Settings -> Privacy & Security -> Open Anyway
 
 <img src="img/macsc/last.png" alt="image" width="300">
 
-<p>Click Open Anyway</p>
+Click Open Anyway
+
 > I promise this is safe.
-
-
-
-
-
-
-<img src="img/macsc/macd1.png" alt="image" width="300">
 
 Click OK and go to System Settings -> Privacy and Security
 
 
-<img src="img/macsc/macd2.png" alt="image" width="300">
-
-Find this section in the Privacy and Security -> click open Anyway
-
-
-<img src="img/macsc/macd3.png" alt="image" width="300">
-
-Click Open and enter your password or use TouchID.
 
 ## Windows version:
 [Download](https://github.com/OOOHA/Wake/releases/download/V1/wake.exe)
 
 
-### Run the App
+img src="img/macsc/main.png" alt="image" width="300">
 
-<img src="img/macsc/win-app.png" alt="image" width="300">
+This is the main screen of the App.
 
-Run the app and you'll see this window when active.
+
+> [!Tip]
+> Way to close the app:
+> * The Red dot
+> * Quit the app.
+> * Use ```command + Q``` to quit the app.
+
+<img src="img/winsc/setting.png" alt="image" width="300">
+
+App Settings
+
+Multi Languages
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="img/winsc/zht.png" width="300"><br>
+    </td>
+    <td align="center">
+      <img src="img/winsc/jp.png" width="300"><br>
+    </td>
+  </tr>
+</table>
+
+And more languages in the settings.
+
+> [!Note]
+> By default, the language will follow the system setting.
+
+## Settings option
+<img src="img/winsc/lt.png" alt="image" width="300">
+
+You can choose the theme you like.
+
+> [!Note]
+> Auto means the theme will follow the system setting.
+
+
+
 
 ---
 ---
