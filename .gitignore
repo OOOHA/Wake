@@ -1,0 +1,12 @@
+# macOS specific files
+.DS_Store
+
+# Icon files
+*.ico
+icon.png
+app.icns
+
+# Build files
+build/
+dist/
+*.spec
