@@ -21,11 +21,15 @@
 
 This is the main screen of the App.
 
-> [!Tips]
+
+> [!Tip]
 > Way to close the app:
 > * The Red dot
 > * Quit the app.
 > * Use ```command + Q``` to quit the app.
+
+<img src="img/macsc/setting.png" alt="image" width="300">
+App Settings
 
 First time launching the App.
 
@@ -40,10 +44,9 @@ Open System Settings -> Privacy & Security -> Open Anyway
 <img src="img/macsc/last.png" alt="image" width="300">
 
 <p>Click Open Anyway</p>
-
-> [!Message]  
 > I promise this is safe.
-<img src="img/macsc/macs.png" alt="image" width="300">
+
+
 
 
 
