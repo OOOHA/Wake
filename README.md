@@ -116,7 +116,8 @@ You can choose the theme you like
 
 ---
 > [!important]
-> Languages are translated by Chat GPT
+> Languages are translated by ChatGPT
+> App icon drawn by ChatGPT.
 
 
 ---
@@ -235,4 +236,5 @@ You can choose the theme you like
 
 ---
 > [!important]
-> 其他語言翻譯自 Chat GPT
+> 其他語言翻譯自 ChatGPT
+> 程式圖標來自ChatGPT
