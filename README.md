@@ -7,7 +7,7 @@
 
 # How to use it
 
-## Mac version:
+## Mac version
 [Download](https://github.com/OOOHA/Wake/releases/download/v2/Mac.version.zip)
 
 > [!Note]  
@@ -74,7 +74,7 @@ Click Open Anyway. Enter the password or use TouchID to approve it
 > I promise this is safe
 
 
-## Windows version:
+## Windows version
 [Download](https://github.com/OOOHA/Wake/releases/download/v2/Windows.version.zip)
 
 > [!Note]  
@@ -116,7 +116,7 @@ You can choose the theme you like
 
 ---
 > [!important]
-> Languages are translated by ChatGPT
+> Languages are translated by ChatGPT <br>
 > App icon drawn by ChatGPT.
 
 
@@ -129,7 +129,7 @@ You can choose the theme you like
 
 # 使用方法
 
-## Mac 版:
+## Mac 版
 [下載](https://github.com/OOOHA/Wake/releases/download/v2/Mac.version.zip)
 
 
@@ -194,7 +194,7 @@ You can choose the theme you like
 
 > 我保證這程式無毒
 
-## Windows 版:
+## Windows 版
 [下載](https://github.com/OOOHA/Wake/releases/download/v2/Windows.version.zip)
 
 > [!Note]  
@@ -236,5 +236,5 @@ You can choose the theme you like
 
 ---
 > [!important]
-> 其他語言翻譯自 ChatGPT
+> 其他語言翻譯自 ChatGPT <br>
 > 程式圖標來自ChatGPT
