@@ -2,13 +2,13 @@
 <br>
 # Download
 [Release Page](https://github.com/OOOHA/Wake/releases)&ensp;&ensp;
-[Download the Mac version](https://github.com/OOOHA/Wake/releases/download/V1/wake.zip)&ensp;&ensp;
-[Download the Windows version](https://github.com/OOOHA/Wake/releases/download/V1/wake.exe)
+[Download the Mac version](https://github.com/OOOHA/Wake/releases/download/v2/Mac.version.zip)&ensp;&ensp;
+[Download the Windows version](https://github.com/OOOHA/Wake/releases/download/v2/Windows.version.zip)
 
 # How to use it
 
 ## Mac version:
-[Download](https://github.com/OOOHA/Wake/releases/download/V1/wake.zip)
+[Download](https://github.com/OOOHA/Wake/releases/download/v2/Mac.version.zip)
 
 > [!Note]  
 > The file is downloaded as a ```zip``` file, please unzip it first.
@@ -69,28 +69,21 @@ Open System Settings -> Privacy & Security -> Open Anyway
 
 <img src="img/macsc/last.png" alt="image" width="300">
 
-Click Open Anyway
+Click Open Anyway. Enter the password or use TouchID to approve it.
 
 > I promise this is safe.
 
-Click OK and go to System Settings -> Privacy and Security
-
-
 
 ## Windows version:
-[Download](https://github.com/OOOHA/Wake/releases/download/V1/wake.exe)
+[Download](https://github.com/OOOHA/Wake/releases/download/v2/Windows.version.zip)
 
+> [!Note]  
+> The file is downloaded as a ```zip``` file, please unzip it first.
 
-img src="img/macsc/main.png" alt="image" width="300">
+<img src="img/macsc/main.png" alt="image" width="300">
 
 This is the main screen of the App.
 
-
-> [!Tip]
-> Way to close the app:
-> * The Red dot
-> * Quit the app.
-> * Use ```command + Q``` to quit the app.
 
 <img src="img/winsc/setting.png" alt="image" width="300">
 
@@ -128,59 +121,111 @@ You can choose the theme you like.
 ---
 # 下載
 [發布頁](https://github.com/OOOHA/Wake/releases)&ensp;&ensp;
-[下載 Mac 版](https://github.com/OOOHA/Wake/releases/download/V1/wake.zip)&ensp;&ensp;
-[下載 Windows 版](https://github.com/OOOHA/Wake/releases/download/V1/wake.exe)
+[下載 Mac 版](https://github.com/OOOHA/Wake/releases/download/v2/Mac.version.zip)&ensp;&ensp;
+[下載 Windows 版](https://github.com/OOOHA/Wake/releases/download/v2/Windows.version.zip)
 
 # 使用方法
 
 ## Mac 版:
-[下載](https://github.com/OOOHA/Wake/releases/download/V1/wake.zip)
+[下載](https://github.com/OOOHA/Wake/releases/download/v2/Mac.version.zip)
+
 
 > [!Note]  
-> 如下載後為壓縮檔，請先解壓縮
+> 下載檔案為```zip``` 檔，請先解壓縮.
 
 
 ### 執行程式
-<img src="img/macsc/mac1.png" alt="image" width="300">
+<img src="img/macsc/main.png" alt="image" width="300">
 
-點擊 Start preventing sleep
-
-<img src="img/macsc/maca.png" alt="image" width="300">
-
-在彈出視窗中點擊OK
-
-<img src="img/macsc/mac2.png" alt="image" width="300">
-
-現在防睡眠已啟用.<br>
-如果要結束防睡眠可以點擊stop Preventing sleep.<br>
-或是可以透過以下方法結束程式<br>
-* 用Mac本身的結束程式.
-* 使用 ```cammand + Q``` 結束程式.
-
-<img src="img/macsc/macs.png" alt="image" width="300">
-
-> [!Note]  
-> 第一次開啟時須提供權限。
+這是開啟後的主畫面
 
 
-<img src="img/macsc/macd1.png" alt="image" width="300">
+> [!Tip]
+> 關閉程式的方法：
+> * 點紅點點。
+> * 結束程式。
+> * 使用 ```command + Q``` 結束程式.
 
-點擊 OK 並前往 系統設定 -> 隱私與安全性
+<img src="img/macsc/setting.png" alt="image" width="300">
+
+設定畫面
+
+多語言支援
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="img/macsc/zht.png" width="300"><br>
+    </td>
+    <td align="center">
+      <img src="img/macsc/jp.png" width="300"><br>
+    </td>
+  </tr>
+</table>
+
+設定裡還有更多語言選項。
+
+> [!Note]
+> 語言預設跟隨系統設定。
+
+## Settings option
+<img src="img/macsc/lt.png" alt="image" width="300">
+
+可以自行選擇喜歡的主題。
+
+> [!Note]
+> 自動會讓主題跟隨系統設定。
+
+## First time launching the App.
 
 
-<img src="img/macsc/macd2.png" alt="image" width="300">
+<img src="img/macsc/down1.png" alt="image" width="300">
 
-在隱私與安全性頁面中找到該畫面，點擊強制開啟
+<p>點擊完成</p>
+<img src="img/macsc/setun.png" alt="image" width="300">
 
+打開系統設定 -> 隱私與安全性 -> 強制開啟
 
-<img src="img/macsc/macd3.png" alt="image" width="300">
+<img src="img/macsc/last.png" alt="image" width="300">
 
-點擊開啟並輸入密碼或是使用指紋解鎖(TouchID)
+點擊強制開啟後輸入密碼或使用TouchID批准。
+
+> 我保證這程式無毒。
 
 ## Windows 版:
-[下載](https://github.com/OOOHA/Wake/releases/download/V1/wake.exe)
+[下載](https://github.com/OOOHA/Wake/releases/download/v2/Windows.version.zip)
 
-### 執行程式
-![image](img/macsc/win-app.png)
+> [!Note]  
+> 下載檔案為```zip``` 檔，請先解壓縮.
 
-開啟程式後會看到這個視窗，關閉視窗以結束程式。
+<img src="img/macsc/main.png" alt="image" width="300">
+
+這是開啟後的主畫面
+
+<img src="img/winsc/setting.png" alt="image" width="300">
+
+設定畫面
+
+多語言支援
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="img/winsc/zht.png" width="300"><br>
+    </td>
+    <td align="center">
+      <img src="img/winsc/jp.png" width="300"><br>
+    </td>
+  </tr>
+</table>
+
+設定裡還有更多語言選項。
+
+> [!Note]
+> 語言預設跟隨系統設定。
+
+## Settings option
+<img src="img/winsc/lt.png" alt="image" width="300">
+
+可以自行選擇喜歡的主題。
+
+> [!Note]
+> 自動會讓主題跟隨系統設定。
