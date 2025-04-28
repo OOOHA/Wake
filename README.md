@@ -80,7 +80,7 @@ Click Open Anyway. Enter the password or use TouchID to approve it
 > [!Note]  
 > The file is downloaded as a ```zip``` file, please unzip it first
 
-<img src="img/macsc/main.png" alt="image" width="300">
+<img src="img/winsc/main.png" alt="image" width="300">
 
 This is the main screen of the App
 
@@ -200,7 +200,7 @@ You can choose the theme you like
 > [!Note]  
 > 下載檔案為```zip``` 檔，請先解壓縮
 
-<img src="img/macsc/main.png" alt="image" width="300">
+<img src="img/winsc/main.png" alt="image" width="300">
 
 這是開啟後的主畫面
 
